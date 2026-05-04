@@ -1,0 +1,8 @@
+streamlit
+faster-whisper
+groq
+gTTS
+psycopg2-binary
+plotly
+pandas
+python-dotenv
